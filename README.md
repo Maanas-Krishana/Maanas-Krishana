@@ -36,21 +36,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏠 SmartHome
-IoT based smart automation system with sensor integration and device control.
-
-### 🌦 Weather App
-Real-time weather tracking using OpenWeather API.
-
-### 🎮 GameOne
-A fun Python-based Tic Tac Toe game.
-
-### 💻 CoEdit Studio
-Collaborative code editing platform.
-
----
 
 ## 📊 GitHub Stats
 
@@ -67,8 +52,8 @@ Collaborative code editing platform.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-<a href="YOUR_INSTAGRAM_URL">Instagram</a>
+<a href="https://www.linkedin.com/in/maanas-krishana/">LinkedIn</a> •
+<a href="https://www.instagram.com/maanas_krishana/">Instagram</a>
 </p>
 
 ---
