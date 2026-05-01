@@ -88,8 +88,8 @@ Interactive Python game built with clean logic and UI principles.
 ## 🌐 Connect
 
 <p align="center">
-<a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/maanas-krishana/)">LinkedIn</a> •
-<a href="[YOUR_INSTAGRAM_LINK](https://www.instagram.com/maanas_krishana/)">Instagram</a>
+<a href="https://www.linkedin.com/in/maanas-krishana/">LinkedIn</a> •
+<a href="https://www.instagram.com/maanas_krishana/">Instagram</a>
 </p>
 
 ---
