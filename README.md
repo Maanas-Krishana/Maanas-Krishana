@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there 👋 I'm Maanas Krishana
+# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Maanas Krishana
 
 ### Software Developer • Backend Engineer • IoT Builder
 
@@ -18,41 +18,29 @@ class MaanasKrishana {
     String role = "Aspiring Software Engineer";
     
     String[] currentlyLearning = {
-        "Java",
-        "Spring Boot",
-        "AWS",
-        "System Design"
+        "Java", "Spring Boot", "AWS", "System Design"
     };
     
     String[] interests = {
-        "Backend Development",
-        "Cloud Engineering",
-        "IoT Systems",
-        "AI Products"
+        "Backend Development", "Cloud Engineering", "IoT Systems", "AI Products"
     };
     
     String motto = "Build things that matter.";
 }
+  
+
 ```
 
 ---
 
-## 🛠 Tech Arsenal
+# 🛠 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+<p align="center">
 
-### Backend & Cloud
-![Spring](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+<img src="https://skillicons.dev/icons?i=java,spring,aws,cpp,python,nodejs,react,mysql,firebase,git,github,linux,docker,vscode"/>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+</p>
+
 
 ---
 
@@ -75,9 +63,10 @@ Interactive Python game built with clean logic and UI principles.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maanas-Krishana&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maanas-Krishana&theme=tokyonight" />
+     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maanas-Krishana&theme=tokyonight" />
 </p>
+  
+ 
 
 <p align="center">
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maanas-Krishana&theme=tokyo-night" />
@@ -85,11 +74,19 @@ Interactive Python game built with clean logic and UI principles.
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maanas-Krishana/Maanas-Krishana/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
 ## 🌐 Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/maanas-krishana/">LinkedIn</a> •
-<a href="https://www.instagram.com/maanas_krishana/">Instagram</a>
+  <a href="https://www.linkedin.com/in/maanas-krishana/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/maanas_krishana/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
